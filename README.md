@@ -61,3 +61,13 @@ Display a summary of total number of customers , total sales per customer and to
 
 #### Data Filters
 Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
+
+## Screenshots From Finished Dashboard
+
+#### Sales Dashboard
+![Sales Dashboard Image](https://github.com/user-attachments/assets/0a5ddf9b-1d2f-401f-8942-28cfafb34f93)
+
+
+
+#### Customer Dashboard
+![Customer Dashboard Image](https://github.com/user-attachments/assets/87e87fb4-bd53-4875-bdd0-d5a7b4edf3d5)
