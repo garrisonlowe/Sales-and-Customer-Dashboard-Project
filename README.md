@@ -73,4 +73,4 @@ Allow users to filter data by product information like category and subcategory 
 ![Customer Dashboard Image](https://github.com/user-attachments/assets/50aa6c29-d3b0-442c-ac9a-4f745e2759ad)
 
 #### Tableau Public Viz
-[Sales and Customer Dashboard](https://public.tableau.com/app/profile/garrison.lowe/viz/SalesandCustomerDashboardProject_17228058425440/CustomerDashboard)
+[Try it out here!](https://public.tableau.com/app/profile/garrison.lowe/viz/SalesandCustomerDashboardProject_17228058425440/CustomerDashboard)
